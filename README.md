@@ -9,6 +9,7 @@ If output file path is provided, a prettified json output will be dumped into th
 
 # Usage
 If executable: `./find_method_usages.py "<expression_to_search_for>" <output_file_path>`
+
 Else: `python3 ./find_method_usages.py "<expression_to_search_for>" <output_file_path>`
 
 Output file is optional.
