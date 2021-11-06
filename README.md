@@ -13,3 +13,5 @@ If executable: `./find_method_usages.py "<expression_to_search_for>" <output_fil
 Else: `python3 ./find_method_usages.py "<expression_to_search_for>" <output_file_path>`
 
 Output file is optional.
+
+For convenience the script directory could be added directly to PATH or one could create a symbolic link to `usr/local/bin`.
